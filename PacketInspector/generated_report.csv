@@ -1,0 +1,17 @@
+Time,Source,Destination,Protocol,Length,Info
+1707016364.135538,50:42:89:7e:ee:7f,2c:c7:a6:8d:f1:56,Ethernet,120,Ether / IPv6 / TCP 2620:1ec:21::14:https > 2a01:4b00:ab15:1300:3831:2fb7:c50b:78c2:49685 PA / Raw
+1707016364.135538,50:42:89:7e:ee:7f,2c:c7:a6:8d:f1:56,Ethernet,120,Ether / IPv6 / TCP 2620:1ec:21::14:https > 2a01:4b00:ab15:1300:3831:2fb7:c50b:78c2:49685 PA / Raw
+1707016364.135689,2c:c7:a6:8d:f1:56,50:42:89:7e:ee:7f,Ethernet,86,Ether / IPv6 / TCP 2a01:4b00:ab15:1300:3831:2fb7:c50b:78c2:49685 > 2620:1ec:21::14:https A
+1707016364.145172,2c:c7:a6:8d:f1:56,50:42:89:7e:ee:7f,Ethernet,116,Ether / IPv6 / TCP 2a01:4b00:ab15:1300:3831:2fb7:c50b:78c2:49685 > 2620:1ec:21::14:https PA / Raw
+1707016364.145368,2c:c7:a6:8d:f1:56,50:42:89:7e:ee:7f,Ethernet,116,Ether / IPv6 / TCP 2a01:4b00:ab15:1300:3831:2fb7:c50b:78c2:49685 > 2620:1ec:21::14:https PA / Raw
+1707016364.1504,50:42:89:7e:ee:7f,2c:c7:a6:8d:f1:56,Ethernet,74,Ether / IPv6 / TCP 2620:1ec:21::14:https > 2a01:4b00:ab15:1300:3831:2fb7:c50b:78c2:49685 A
+1707016365.248058,2c:c7:a6:8d:f1:56,50:42:89:7e:ee:7f,Ethernet,90,"Ether / IPv6 / UDP / DNS Qry ""b'wpad.mynet.'"" "
+1707016365.248502,2c:c7:a6:8d:f1:56,50:42:89:7e:ee:7f,Ethernet,90,"Ether / IPv6 / UDP / DNS Qry ""b'wpad.mynet.'"" "
+1707016365.248511,2c:c7:a6:8d:f1:56,50:42:89:7e:ee:7f,Ethernet,90,"Ether / IPv6 / UDP / DNS Qry ""b'wpad.mynet.'"" "
+1707016365.2491,2c:c7:a6:8d:f1:56,50:42:89:7e:ee:7f,Ethernet,90,"Ether / IPv6 / UDP / DNS Qry ""b'wpad.mynet.'"" "
+1707016366.238815,50:42:89:7e:ee:7f,2c:c7:a6:8d:f1:56,Ethernet,165,Ether / IPv6 / UDP / DNS Ans 
+1707016366.238815,50:42:89:7e:ee:7f,2c:c7:a6:8d:f1:56,Ethernet,165,Ether / IPv6 / UDP / DNS Ans 
+1707016366.238815,50:42:89:7e:ee:7f,2c:c7:a6:8d:f1:56,Ethernet,165,Ether / IPv6 / UDP / DNS Ans 
+1707016366.239695,50:42:89:7e:ee:7f,2c:c7:a6:8d:f1:56,Ethernet,165,Ether / IPv6 / UDP / DNS Ans 
+1707016371.247519,50:42:89:7e:ee:7f,2c:c7:a6:8d:f1:56,Ethernet,86,Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 50:42:89:7e:ee:7f
+1707016371.247647,2c:c7:a6:8d:f1:56,50:42:89:7e:ee:7f,Ethernet,86,Ether / IPv6 / ICMPv6ND_NA / ICMPv6 Neighbor Discovery Option - Destination Link-Layer Address 2c:c7:a6:8d:f1:56
